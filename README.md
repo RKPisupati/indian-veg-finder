@@ -5,7 +5,7 @@ vegetarian restaurants nearby (pulled from Google Places), plus an optional
 AI-written recommendation summary.
 # Simple Architecture 
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/4815e923-a95d-4e3b-877d-354b30dbc8cc" />
-
+# Sample UI Screens
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2f167d32-7b82-4c47-8d2a-b4e97d64b247" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f79d9e20-882c-4d9a-bbe8-edf8cc206453" />
 
@@ -34,6 +34,7 @@ AI-written recommendation summary.
    ```bash
    python app.py
    ```
+   # Snapshot of the server
    <img width="1273" height="347" alt="image" src="https://github.com/user-attachments/assets/8b7834f5-8c60-4cde-b4aa-04d14f6be342" />
 
 
