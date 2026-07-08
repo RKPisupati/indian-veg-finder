@@ -31,6 +31,8 @@ AI-written recommendation summary.
    ```bash
    python app.py
    ```
+   <img width="1273" height="347" alt="image" src="https://github.com/user-attachments/assets/8b7834f5-8c60-4cde-b4aa-04d14f6be342" />
+
 
    This starts a local server at `http://127.0.0.1:5050` and automatically
    opens it in your default browser. If it doesn't open automatically, just
