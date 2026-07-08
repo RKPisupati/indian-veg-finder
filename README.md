@@ -55,5 +55,5 @@ AI-written recommendation summary.
 
 - Everything runs locally — no data leaves your machine except the calls to
   Google Places/Geocoding and the Gemini API.
-- The CLI version still works unchanged: `python indian_veg_finder.py 75087`
+- The CLI version still works unchanged: `python indian_veg_finder.py 75087` but you need to define the env variables for GEMINI_API_KEY, GOOGLE_MAPS_API_KEY (set GEMINI_API_KEY=XXXXXX and set GOOGLE_MAPS_API_KEY=YYYYYY     from command line)
 - To stop the server, press `Ctrl+C` in the terminal.
